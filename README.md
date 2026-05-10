@@ -1,43 +1,101 @@
-🚀 Project Description
+📄 Automated Resume Screening Tool
+🚀 Overview
 
-The Automated Resume Screening Tool is an AI-powered Python application that automates the process of shortlisting candidates by comparing resumes with a job description using Natural Language Processing (NLP) techniques.
+The Automated Resume Screening Tool is an AI-powered Python project that automates the process of evaluating and shortlisting candidates by matching resumes with a given job description using Natural Language Processing (NLP) techniques.
 
-It extracts text from resumes (PDF, DOCX, TXT), processes and cleans the data, and then applies TF-IDF vectorization and Cosine Similarity to calculate how closely each resume matches the job requirements.
+It acts as a simplified Applicant Tracking System (ATS) that helps HR teams and recruiters save time by automatically analyzing resumes, extracting skills, and ranking candidates based on relevance.
 
-This project simulates a real-world Applicant Tracking System (ATS) used by HR teams to efficiently filter and rank candidates based on skills, experience, and job relevance.
+The system supports PDF, DOCX, and TXT resumes, processes text using TF-IDF, and calculates similarity using cosine similarity to generate accurate ranking scores.
 
-The system also provides a Streamlit-based interactive dashboard for uploading resumes, entering job descriptions, visualizing results, and downloading ranked reports.
+A Streamlit-based dashboard is also included for interactive resume upload, visualization, and report generation.
 
-🎯 Key Features
-📄 Supports PDF, DOCX, and TXT resume formats
-🧠 NLP-based text processing (TF-IDF + Cosine Similarity)
-📊 Automated resume ranking system
-✅ Shortlisting based on threshold score
+🎯 Problem Statement
+
+Manually screening resumes is:
+
+Time-consuming ⏳
+Error-prone ❌
+Subjective ⚖️
+
+This project solves these issues by:
+
+Automating resume evaluation
+Ranking candidates objectively
+Extracting skill-based insights
+Reducing HR workload significantly
+
+🧠 How It Works
+Upload resumes (PDF / DOCX / TXT)
+Enter job description
+System extracts and cleans text
+TF-IDF converts text into vectors
+Cosine similarity measures match score
+Candidates are ranked
+Shortlisted & rejected lists are generated
+Results exported as CSV report
+
+📊 Features
+📄 Multi-format resume support (PDF, DOCX, TXT)
+🧠 NLP-based text analysis
+📊 TF-IDF + Cosine Similarity matching
+🏆 Automated ranking system
+✅ Shortlisting based on threshold
 📈 Interactive Streamlit dashboard
-📥 Downloadable CSV reports
-⚡ Fast and automated screening process
-🔍 Skill-based matching system
+📥 CSV report download
+⚡ Fast and scalable processing
 
-🛠 Tech Stack
+🛠️ Tech Stack
 Python 🐍
-Pandas & NumPy
+Pandas, NumPy
 Scikit-learn (TF-IDF, Cosine Similarity)
 pdfplumber
 python-docx
 Streamlit (UI Dashboard)
 
-🧠 Project Goal
+📁 Project Structure
+Automated-Resume-Screening-Tool/
+│
+├── data/               # Job description & skills data
+├── docs/              # Documentation
+├── images/            # Screenshots
+├── outputs/           # Generated reports (CSV, TXT)
+├── resumes/           # Sample resumes
+├── src/               # Core modules (NLP, scoring, utils)
+│
+├── app.py             # Streamlit dashboard
+├── main.py            # Backend pipeline
+├── requirements.txt   # Dependencies
+├── .gitignore
+└── README.md
 
-To reduce manual effort in HR resume screening by building an intelligent system that automatically evaluates, ranks, and shortlists candidates based on job description similarity.
+🚀 How to Run
+1️⃣ Install dependencies
+pip install -r requirements.txt
+2️⃣ Run backend (CLI version)
+python main.py
+3️⃣ Run Streamlit dashboard
+streamlit run app.py
+📈 Output Example
+Ranked Resume List
+Similarity Score (%)
+Skill Match Score
+Shortlisted Candidates
+CSV Report Export
 
-📌 Use Case
-HR Recruitment Automation
-Job Portals (ATS systems)
-College Placement Systems
-Internship Selection Platforms
+🎯 Learning Outcomes
 
-📊 Output
-Ranked list of candidates
-Similarity scores (%)
-Shortlisted vs Rejected classification
-CSV report for HR analysis
+This project helps in understanding:
+
+NLP (Natural Language Processing)
+TF-IDF vectorization
+Cosine similarity
+Data preprocessing
+Automation workflows
+Real-world ATS systems
+
+📌 Future Improvements
+AI-based semantic matching (BERT)
+Email automation for shortlisted candidates
+Database integration (MySQL / MongoDB)
+Resume keyword highlighting
+Login-based HR dashboard
