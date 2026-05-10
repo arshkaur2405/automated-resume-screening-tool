@@ -1,0 +1,34 @@
+ALEX KUMAR
+Machine Learning Engineer
+Email: alex.kumar@email.com | Phone: 555-987-6543
+
+PROFILE
+Machine Learning Engineer with 4 years of experience building production ML systems.
+Expert in Python, deep learning, and natural language processing.
+
+CORE COMPETENCIES
+- Python, TensorFlow, PyTorch, Keras
+- Machine Learning, Deep Learning, NLP
+- Data Analysis with Pandas, NumPy, Matplotlib
+- SQL, PostgreSQL, BigQuery
+- Git, Docker, MLflow
+- REST API development with Flask
+
+PROFESSIONAL EXPERIENCE
+ML Engineer | AI Solutions Ltd | 2021 - Present
+- Built NLP models for sentiment analysis with 92% accuracy
+- Deployed machine learning models using TensorFlow Serving
+- Created data pipelines processing 5M+ text documents monthly
+
+Data Analyst | DataDriven Co | 2019 - 2021
+- Analyzed customer behavior data using Python and SQL
+- Built predictive models using scikit-learn
+- Created automated reporting dashboards
+
+EDUCATION
+Master of Science in Data Science | University of Technology | 2019
+Bachelor of Computer Science | National Institute | 2017
+
+PROJECTS
+- Open source contributor to scikit-learn
+- Published research paper on NLP techniques

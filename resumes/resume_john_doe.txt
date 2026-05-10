@@ -1,0 +1,32 @@
+JOHN DOE
+Software Developer
+Email: john.doe@email.com | Phone: 555-123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced Python developer with 3+ years of experience in machine learning and data analysis. 
+Passionate about building scalable solutions and working with cross-functional teams.
+
+SKILLS
+- Programming: Python, JavaScript, SQL, R
+- Machine Learning: scikit-learn, TensorFlow, Pandas, NumPy
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: Git, Docker, AWS, REST APIs
+- Soft Skills: Communication, Team Collaboration, Problem Solving
+
+EXPERIENCE
+Data Scientist | TechCorp Inc. | 2022 - Present
+- Developed machine learning models for customer churn prediction achieving 89% accuracy
+- Built data pipelines using Python and SQL, processing 1M+ records daily
+- Collaborated with product team to deploy ML models via REST APIs
+
+Junior Developer | StartupXYZ | 2020 - 2022
+- Created data analysis dashboards using Pandas and visualization libraries
+- Wrote Python scripts for automated reporting and data cleaning
+- Maintained PostgreSQL database with 500K+ user records
+
+EDUCATION
+Bachelor of Science in Computer Science | State University | 2020
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Professional Certificate

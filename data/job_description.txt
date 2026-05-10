@@ -1,0 +1,51 @@
+Job Title: Python Developer / Data Analyst / Machine Learning Engineer
+
+--------------------------------------------------
+
+JOB SUMMARY:
+We are looking for a highly motivated Python Developer with strong knowledge in Data Analysis, Machine Learning, and Software Development. The ideal candidate should be able to work with large datasets, build data-driven solutions, and develop automation tools using Python.
+
+--------------------------------------------------
+
+RESPONSIBILITIES:
+- Develop and maintain Python-based applications and automation tools
+- Perform data cleaning, preprocessing, and analysis on large datasets
+- Build machine learning models for prediction and classification tasks
+- Work with APIs and integrate external data sources
+- Create data visualization dashboards for business insights
+- Optimize code for performance and scalability
+- Collaborate with cross-functional teams to deliver solutions
+
+--------------------------------------------------
+
+REQUIRED SKILLS:
+- Strong proficiency in Python programming
+- Experience with Pandas, NumPy, Matplotlib, Seaborn
+- Knowledge of Machine Learning algorithms (Regression, Classification, Clustering)
+- Familiarity with Scikit-learn library
+- Understanding of SQL and databases (MySQL preferred)
+- Knowledge of TF-IDF, NLP, and text processing basics
+- Experience with data cleaning and feature engineering
+- Familiarity with Git and version control systems
+
+--------------------------------------------------
+
+PREFERRED SKILLS:
+- Experience with Streamlit or Flask
+- Basic understanding of Deep Learning and AI concepts
+- Knowledge of APIs and web scraping
+- Experience working on real-world projects or internships
+
+--------------------------------------------------
+
+QUALIFICATIONS:
+- Bachelor’s degree in Computer Science, IT, or related field
+- Strong problem-solving and analytical skills
+- Ability to work independently and in a team environment
+
+--------------------------------------------------
+
+WHAT WE OFFER:
+- Hands-on experience with real-world data projects
+- Opportunity to work on AI and ML-based systems
+- Growth in data-driven technologies

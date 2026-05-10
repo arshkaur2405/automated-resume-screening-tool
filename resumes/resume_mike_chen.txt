@@ -1,0 +1,34 @@
+MIKE CHEN
+Data Engineer
+Email: mike.chen@email.com | LinkedIn: linkedin.com/in/mikechen
+
+SUMMARY
+Data Engineer with strong background in Python, SQL, and building ETL pipelines.
+Experience with big data technologies and cloud platforms.
+
+SKILLS
+Programming: Python, SQL, Scala, Bash
+Data: Pandas, NumPy, Apache Spark, Airflow
+Databases: PostgreSQL, MySQL, MongoDB, Redshift
+Cloud: AWS (S3, EC2, Lambda), Google Cloud
+Tools: Git, Docker, Kubernetes, Terraform
+Analytics: Data Analysis, Visualization, Reporting
+
+EXPERIENCE
+Senior Data Engineer | DataFlow Inc | 2022 - Present
+- Built ETL pipelines processing 10TB+ data daily
+- Designed data warehouse architecture on AWS Redshift
+- Implemented data quality monitoring systems
+
+Data Engineer | TechData Co | 2020 - 2022
+- Developed Python scripts for data extraction and transformation
+- Managed PostgreSQL databases with 1B+ records
+- Created REST APIs for data access
+
+Junior Developer | CodeStart | 2018 - 2020
+- Built data analysis tools using Pandas and NumPy
+- Wrote SQL queries for business reporting
+- Maintained documentation for data processes
+
+EDUCATION
+Bachelor of Science in Computer Engineering | State Tech | 2018

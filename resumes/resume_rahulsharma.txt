@@ -1,0 +1,70 @@
+Rahul Sharma
+Email: rahul.sharma.dev@gmail.com
+Phone: +91-9876543210
+Location: Chandigarh, India
+LinkedIn: linkedin.com/in/rahul-sharma-dev
+GitHub: github.com/rahulsharma-dev
+
+--------------------------------------------------
+
+PROFESSIONAL SUMMARY
+Motivated Computer Science student with strong knowledge in Python, Data Structures, Machine Learning, and Data Analysis. Experienced in building real-world projects using Python, Pandas, NumPy, and Scikit-learn. Passionate about solving business problems using data-driven approaches and automation tools.
+
+--------------------------------------------------
+
+TECHNICAL SKILLS
+- Programming: Python, C++, SQL
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, Regression, Classification
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+- Web Basics: HTML, CSS, Streamlit
+
+--------------------------------------------------
+
+PROJECTS
+
+1. Automated Resume Screening Tool
+- Built an NLP-based ATS system using TF-IDF and cosine similarity
+- Compared resumes with job descriptions to generate ranking scores
+- Implemented PDF, DOCX, and TXT file parsing
+- Generated shortlisted candidates report automatically
+
+2. Stock Market Data Analyzer
+- Analyzed historical stock data using Python
+- Created visual dashboards using Matplotlib and Seaborn
+- Identified trends and price movements
+
+3. Weather Forecast App
+- Integrated OpenWeather API using Python
+- Displayed real-time weather data with alerts system
+
+--------------------------------------------------
+
+EDUCATION
+Bachelor of Technology (Computer Science)
+XYZ University, India
+2022 - 2026
+
+--------------------------------------------------
+
+CERTIFICATIONS
+- Python for Data Science – Coursera
+- Machine Learning Basics – Kaggle
+- Data Structures & Algorithms – Udemy
+
+--------------------------------------------------
+
+INTERNSHIP
+Data Analyst Intern
+ABC Tech Solutions
+June 2025 – August 2025
+- Worked on data cleaning and preprocessing
+- Created dashboards for business insights
+- Improved data processing efficiency by 20%
+
+--------------------------------------------------
+
+ACHIEVEMENTS
+- Solved 200+ problems on LeetCode
+- Built 5+ real-world Python projects
+- Active contributor on GitHub

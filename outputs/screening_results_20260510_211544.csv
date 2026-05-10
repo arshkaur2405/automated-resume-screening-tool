@@ -1,0 +1,8 @@
+candidate_name,filename,similarity_score,skill_match_percent,skills_found,final_score,rank,status
+John Doe,resume_john_doe.txt,22.55,100.0,"Python, Machine Learning, Pandas, NumPy, SQL, scikit-learn, Git, Data Analysis, REST API, TensorFlow, Communication, Docker, AWS, PostgreSQL",53.53,1,Shortlisted
+Alex Kumar,resume_alex_kumar.txt,22.05,85.71428571428571,"Python, Machine Learning, Pandas, NumPy, SQL, scikit-learn, Git, Data Analysis, REST API, TensorFlow, Docker, PostgreSQL",47.52,2,Rejected
+Mike Chen,resume_mike_chen.txt,17.47,71.42857142857143,"Python, Pandas, NumPy, SQL, Git, Data Analysis, REST API, Docker, AWS, PostgreSQL",39.05,3,Rejected
+Amanverma,resume_amanverma.txt,26.94,57.14285714285714,"Python, Machine Learning, Pandas, NumPy, SQL, scikit-learn, Git, Data Analysis",39.02,4,Rejected
+Rahulsharma,resume_rahulsharma.txt,26.9,57.14285714285714,"Python, Machine Learning, Pandas, NumPy, SQL, scikit-learn, Git, Data Analysis",39.0,5,Rejected
+Jane Smith,resume_jane_smith.txt,5.83,14.285714285714285,"Docker, AWS",9.21,6,Rejected
+Sarah Johnson,resume_sarah_johnson.txt,0.14,0.0,None,0.08,7,Rejected

@@ -1,0 +1,29 @@
+JANE SMITH
+Full Stack Developer
+Email: jane.smith@email.com | GitHub: github.com/janesmith
+
+PROFESSIONAL SUMMARY
+Full stack developer with expertise in JavaScript frameworks and backend development.
+Strong experience with Java, Spring Boot, and microservices architecture.
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript, TypeScript, HTML, CSS
+Frameworks: Spring Boot, React, Node.js, Express
+Databases: MySQL, Redis
+DevOps: Docker, Kubernetes, Jenkins, CI/CD
+Cloud: AWS, Google Cloud Platform
+
+WORK EXPERIENCE
+Senior Developer | Enterprise Solutions | 2021 - Present
+- Designed microservices architecture serving 10K+ daily users
+- Led migration from monolith to Docker-based containerized services
+- Implemented CI/CD pipelines reducing deployment time by 60%
+
+Developer | WebTech Agency | 2019 - 2021
+- Built responsive web applications using React and Node.js
+- Integrated third-party APIs for payment processing
+- Mentored junior developers on coding best practices
+
+EDUCATION
+Master of Computer Science | Tech University | 2019
+Bachelor of Engineering | City College | 2017

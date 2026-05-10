@@ -1,0 +1,70 @@
+Aman Verma
+Email: aman.verma.data@gmail.com
+Phone: +91-9876543211
+Location: Delhi, India
+LinkedIn: linkedin.com/in/aman-verma-data
+GitHub: github.com/amanverma-data
+
+--------------------------------------------------
+
+PROFESSIONAL SUMMARY
+Detail-oriented Data Analyst and Python Developer with strong expertise in Python, SQL, Data Analysis, and Machine Learning. Skilled in building data-driven solutions using Pandas, NumPy, and Scikit-learn. Passionate about extracting insights from large datasets and building automation tools.
+
+--------------------------------------------------
+
+TECHNICAL SKILLS
+- Programming: Python, SQL, C++
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, Regression, Classification, Clustering
+- Tools: Git, GitHub, Jupyter Notebook, VS Code
+- Databases: MySQL
+
+--------------------------------------------------
+
+PROJECTS
+
+1. Automated Resume Screening Tool
+- Built ATS system using TF-IDF and cosine similarity
+- Extracted resume text from PDF, DOCX, TXT formats
+- Ranked candidates based on job description matching
+- Generated CSV reports for HR screening
+
+2. Sales Data Analysis Dashboard
+- Analyzed sales dataset using Python
+- Created visual insights using Matplotlib & Seaborn
+- Identified top-performing products and trends
+
+3. Machine Learning Model for Prediction
+- Built regression model using Scikit-learn
+- Achieved 85% accuracy on test dataset
+
+--------------------------------------------------
+
+EDUCATION
+B.Tech Computer Science
+ABC Institute of Technology, India
+2021 - 2025
+
+--------------------------------------------------
+
+CERTIFICATIONS
+- Python for Data Science – Coursera
+- Machine Learning – Udemy
+- SQL for Data Analysis – HackerRank
+
+--------------------------------------------------
+
+INTERNSHIP
+Data Analyst Intern
+Tech Solutions Pvt Ltd
+June 2024 – Aug 2024
+- Worked on real-world datasets
+- Built dashboards and reports for business insights
+- Improved data processing efficiency by 25%
+
+--------------------------------------------------
+
+ACHIEVEMENTS
+- 150+ DSA problems solved on LeetCode
+- Built 6+ Python projects
+- Active GitHub contributor
